@@ -120,7 +120,6 @@ drone = get_drone()
 # ---------------------------
 
 # Define the boundary box for drone movement (in cm)
-# Define the boundary box for drone movement (in cm)
 BOUNDARY_BOX = {
     "x_min": 0,
     "x_max": 100,
